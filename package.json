@@ -1,0 +1,22 @@
+{
+  "name": "web-pw-autotests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudaoprysk/web-pw-autotests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liudaoprysk/web-pw-autotests/issues"
+  },
+  "homepage": "https://github.com/liudaoprysk/web-pw-autotests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  }
+}
